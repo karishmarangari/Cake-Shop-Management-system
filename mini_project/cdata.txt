@@ -1,0 +1,4 @@
+101,bread-cake,100,6
+202,cream-cake,200,0
+303,peanut-cake,300,2
+404,choco-cake,400,4
